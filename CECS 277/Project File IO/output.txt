@@ -1,0 +1,109 @@
+Enter Sales Info:
+Enter Client name
+mr. man
+Service Sold
+dinner
+Amount of the Sale: 0.00
+445
+Date of Even:
+Month
+12
+Day
+3
+Year
+1990
+If done enter 'yes' if not enter 'a' to add more info
+a
+Enter Sales Info:
+Enter Client name
+Mrs. Perez
+Service Sold
+lodging
+Amount of the Sale: 0.00
+60000
+Date of Even:
+Month
+3
+Day
+4
+Year
+2009
+If done enter 'yes' if not enter 'a' to add more info
+a
+Enter Sales Info:
+Enter Client name
+Mike
+Service Sold
+Wedding
+Amount of the Sale: 0.00
+400000
+Date of Even:
+Month
+4
+Day
+13
+Year
+2008
+If done enter 'yes' if not enter 'a' to add more info
+a
+Enter Sales Info:
+Enter Client name
+Jose
+Service Sold
+conference
+Amount of the Sale: 0.00
+400
+Date of Even:
+Month
+6
+Day
+23
+Year
+2020
+If done enter 'yes' if not enter 'a' to add more info
+yes
+
+Contents of data.txt
+mr. man; dinner; 445.00; 12/3/1990
+Mrs. Perez; lodging; 60000.00; 3/4/2009
+Mike; Wedding; 400000.00; 4/13/2008
+Jose; conference; 400.00; 6/23/2020
+
+Contents of Dinner.txt
+mr. man; dinner; 445.00; 12/3/1990
+
+Contents of Lodging.txt
+Mrs. Perez; lodging; 60000.00; 3/4/2009
+
+Contents of Conference.txt
+Jose; conference; 400.00; 6/23/2020
+
+Contents of Wedding.txt
+Mike; Wedding; 400000.00; 4/13/2008
+
+
+///////////////////////////// 
+Enter Sales Info:
+Enter Client name
+Kim
+Service Sold
+dfdas
+Category is invalid, please try again
+Enter Sales Info:
+Enter Client name
+Kim
+Service Sold
+dinner
+Amount of the Sale: 0.00
+dfsSD
+Invalid Input.
+DSGA
+Invalid Input.
+45
+Date of Even:
+Month
+
+//// using command line
+File Not Found
+
+

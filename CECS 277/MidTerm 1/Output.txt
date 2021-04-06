@@ -1,0 +1,6 @@
+The name of the ship is noname. It was built in 1000.
+The name of the ship is Titanic. It was built in 1925.
+The name of the ship is noname. It was built in 1000. The cargo capacity is 0 tons.
+The name of the ship is USS Constitution. It was built in 2000. The cargo capacity is 100 tons.
+The name of the ship is noname. It was built in 1000. The maximum number of passengers are 0 passengers.
+The name of the ship is Mayflower. It was built in 1615. The maximum number of passengers are 1000 passengers. 

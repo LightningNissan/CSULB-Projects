@@ -1,0 +1,314 @@
+A)dd S)how Q)uit
+s
+
+ 1].   .  .   .
+ 2].   .  .   .
+ 3].   .  .   .
+ 4].   .  .   .
+ 5].   .  .   .
+ 6]. . .  . . .
+ 7]. . .  . . .
+ 8]. . .  . . .
+ 9]. . .  . . .
+10]. . .  . . .
+11]. . .  . . .
+12]. . .  . . .
+13]. . .  . . .
+14]. . .  . . .
+15]. . .  . . .
+16]. . .  . . .
+17]. . .  . . .
+18]. . .  . . .
+19]. . .  . . .
+20]. . .  . . .
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+f
+Passengers? (1-2)
+2
+A)isle W)indow
+w
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+3
+A)isle C)enter W)indow
+c
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+f
+Passengers? (1-2)
+2
+A)isle W)indow
+w
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+1
+A)isle C)enter W)indow
+w
+A)dd S)how Q)uit
+s
+
+ 1]*   *  *   *
+ 2].   .  .   .
+ 3].   .  .   .
+ 4].   .  .   .
+ 5].   .  .   .
+ 6]* * *  . . *
+ 7]. . .  . . .
+ 8]. . .  . . .
+ 9]. . .  . . .
+10]. . .  . . .
+11]. . .  . . .
+12]. . .  . . .
+13]. . .  . . .
+14]. . .  . . .
+15]. . .  . . .
+16]. . .  . . .
+17]. . .  . . .
+18]. . .  . . .
+19]. . .  . . .
+20]. . .  . . .
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+3
+A)isle C)enter W)indow
+a
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+1
+A)isle C)enter W)indow
+c
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+f
+Passengers? (1-2)
+2
+A)isle W)indow
+3
+Wrong Input, try again
+A)isle W)indow
+w
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+s
+Please enter correct values 1-3
+4
+Please enter correct values 1-3
+1
+A)isle C)enter W)indow
+
+
+
+///////////
+A)dd S)how Q)uit
+s
+
+ 1].   .  .   .
+ 2].   .  .   .
+ 3].   .  .   .
+ 4].   .  .   .
+ 5].   .  .   .
+ 6]. . .  . . .
+ 7]. . .  . . .
+ 8]. . .  . . .
+ 9]. . .  . . .
+10]. . .  . . .
+11]. . .  . . .
+12]. . .  . . .
+13]. . .  . . .
+14]. . .  . . .
+15]. . .  . . .
+16]. . .  . . .
+17]. . .  . . .
+18]. . .  . . .
+19]. . .  . . .
+20]. . .  . . .
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+f
+Passengers? (1-2)
+2
+A)isle W)indow
+w
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+3
+A)isle C)enter W)indow
+c
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+f
+Passengers? (1-2)
+2
+A)isle W)indow
+w
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+1
+A)isle C)enter W)indow
+w
+A)dd S)how Q)uit
+s
+
+ 1]*   *  *   *
+ 2].   .  .   .
+ 3].   .  .   .
+ 4].   .  .   .
+ 5].   .  .   .
+ 6]* * *  . . *
+ 7]. . .  . . .
+ 8]. . .  . . .
+ 9]. . .  . . .
+10]. . .  . . .
+11]. . .  . . .
+12]. . .  . . .
+13]. . .  . . .
+14]. . .  . . .
+15]. . .  . . .
+16]. . .  . . .
+17]. . .  . . .
+18]. . .  . . .
+19]. . .  . . .
+20]. . .  . . .
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+3
+A)isle C)enter W)indow
+a
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+1
+A)isle C)enter W)indow
+c
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+f
+Passengers? (1-2)
+2
+A)isle W)indow
+3
+Wrong Input, try again
+A)isle W)indow
+w
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+s
+Please enter correct values 1-3
+4
+Please enter correct values 1-3
+1
+A)isle C)enter W)indow
+
+a
+A)dd S)how Q)uit
+e
+
+Wrong Input, try again 
+
+A)dd S)how Q)uit
+1
+Wrong Input, try again 
+
+A)dd S)how Q)uit
+a
+F)irst E)conomy
+e
+Passengers? (1-3)
+1
+A)isle C)enter W)indow
+c
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+e
+Passengers? (1-3)
+2
+A)isle C)enter W)indow
+a
+A)dd S)how Q)uit
+a
+
+F)irst E)conomy
+f
+Passengers? (1-2)
+1
+A)isle W)indow
+a
+A)dd S)how Q)uit
+s
+
+ 1]*   *  *   *
+ 2]*   *  *   .
+ 3].   .  .   .
+ 4].   .  .   .
+ 5].   .  .   .
+ 6]* * *  * * *
+ 7]* * *  . * .
+ 8]. * *  . . .
+ 9]. . .  . . .
+10]. . .  . . .
+11]. . .  . . .
+12]. . .  . . .
+13]. . .  . . .
+14]. . .  . . .
+15]. . .  . . .
+16]. . .  . . .
+17]. . .  . . .
+18]. . .  . . .
+19]. . .  . . .
+20]. . .  . . .
+A)dd S)how Q)uit
+
